@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning C/C++, swift
+- 📫 How to reach me: jalil.jimenez05@gmail.com
+- 🐶 Mississppi State University Software Engineering Major
+- 🔗 LinkedIn: https://www.linkedin.com/in/jalil-jimenez-7a0206297/
 <!--
 **JalilJimenez/JalilJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
