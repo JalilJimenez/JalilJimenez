@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning C/C++, react
-- 📫 How to reach me: jalil.jimenez05@gmail.com
+- 🌱 I’m currently learning: react
+- 📫 How to reach me: jalil.jimenez@icloud.com
 - 🐶 Mississppi State University Software Engineering Major
 - 🔗 LinkedIn: https://www.linkedin.com/in/jalil-jimenez-7a0206297/
 <!--
