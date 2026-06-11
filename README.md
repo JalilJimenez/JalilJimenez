@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning: react
+- 🌱 I’m currently learning: Java + Springboot
 - 📫 How to reach me: jalil.jimenez@icloud.com
 - 🐶 Mississppi State University Software Engineering Major
 - 🔗 LinkedIn: https://www.linkedin.com/in/jalil-jimenez-7a0206297/
